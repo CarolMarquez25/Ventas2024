@@ -5,7 +5,8 @@
 ---
 Este proyecto de Excel ofrece una análisis de datos destinado a comprender el comportamiento de las ventas de un negocio en el que se venden diferentes productos de distintas categorías 
 y examinar los patrones de ventas. 
-Variables:
+
+##Variables:
 - Fecha de venta
 - Producto
 - Categoría
