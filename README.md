@@ -3,8 +3,7 @@
  ## **Carol Márquez**
   21/01/2024
 ---
-Este proyecto de Excel ofrece una análisis de datos destinado a comprender el comportamiento de las ventas de un negocio en el que se venden diferentes productos de distintas categorías 
-y examinar los patrones de ventas. 
+Este proyecto de Excel ofrece una análisis de datos destinado a comprender el comportamiento de las ventas de un negocio en el que se venden diferentes productos de distintas categorías y examinar los patrones de ventas a través de visualizaciones que permiten responder a los objetivos de manera clara y fácil.
 
 ## Variables:
 - Fecha de venta
