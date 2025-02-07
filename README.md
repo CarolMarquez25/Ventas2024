@@ -19,3 +19,5 @@ Este proyecto de Excel ofrece una análisis de datos destinado a comprender el c
 2. Determinar los productos que dieron mayores ingresos al negocio
 3. Identificar las categorías de productos en las que se realizan más descuentos
 4. Visualizar los patrones de ventas a lo largo del 2024
+
+![image](https://github.com/user-attachments/assets/15ae221e-5a06-43ac-a388-7963c695dbf7)
